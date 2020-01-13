@@ -1,4 +1,3 @@
-
 function Where($where = {}, $addWhere = false){
 
   this.setAddWhere($addWhere);
